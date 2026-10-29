@@ -65,7 +65,6 @@ Test set of 2,000 pixels:
 
 The results are also compared with the original 1994 Statlog study, where KNN was best at about 9.4% test error; here the best models reach about 8.1% error.
 
-![Per-class F1](fig_per_class_f1.png)
 
 ## How to run
 
