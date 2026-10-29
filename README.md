@@ -1,0 +1,1 @@
+# Satellite-Based-Land-Cover-Classification-Using-Machine-Learning
